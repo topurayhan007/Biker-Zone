@@ -3,6 +3,27 @@
 * {
   font-family: "Poppins", sans-serif;
 }
+body {
+  margin: 0;
+}
+h1 {
+  font-weight: 700;
+}
 .biker-zone-light-red {
   background-color: rgba(255, 0, 0, 0.19);
+}
+.btn-bike {
+  background: #e76f51;
+  color: white;
+}
+.btn-bike-outline {
+  background: transparent;
+  border: 2px solid #e76f51;
+  color: #e76f51;
+}
+
+.btn-bike:hover {
+  background: #e76f51;
+  color: white;
+  opacity: 75%;
 }
