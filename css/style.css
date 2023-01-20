@@ -21,7 +21,7 @@ h1 {
       rgba(24, 24, 24, 0.822917) 24.48%,
       rgba(24, 24, 24, 0) 100%
     ),
-    url("/images/banner-bike.png");
+    url("../images/banner-bike.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
